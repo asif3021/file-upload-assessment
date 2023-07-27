@@ -5,3 +5,8 @@
 * Java version - 11
 * Spring boot version 3.1.2
 ```
+
+## Communication Protocol:
+```bash
+* RESTful API.
+```
